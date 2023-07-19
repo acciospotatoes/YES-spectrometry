@@ -1,0 +1,15 @@
+h1 {
+  color: black; 
+  text-align: center;
+  font: italic 6.2em "Fira Sans", serif;
+}
+
+
+
+Body {
+   background-image: repeating-linear-gradient(lavender, lightblue 10%, lightpink 20%);
+}
+
+p {
+  font-size: 20px
+}
